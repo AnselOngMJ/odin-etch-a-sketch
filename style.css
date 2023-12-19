@@ -1,0 +1,12 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 95vmin;
+    width: 95vmin;
+}
+
+.square {
+    flex: 1 0 6%;
+    border: 1px solid black;
+    height: 6%;
+}
